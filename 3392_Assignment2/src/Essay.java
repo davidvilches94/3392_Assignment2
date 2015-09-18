@@ -29,4 +29,7 @@ public class Essay extends GradeActivity
 			content = 0;
 		return content;
 	}
+	
+	//Missing a method to find the total score.
+	//this method should add the spelling grammar and content scores.
 }
