@@ -25,6 +25,8 @@ public class TestEssay
 	    System.out.print("Your grammer score: " + essay.getGrammer());
 	    System.out.print("Your content score: " + essay.getContent());
 	    
+	    //does not display the total score
+	    
 	    
 		
 	
