@@ -10,7 +10,6 @@ public static void main(String [] args){
 		Scanner input = new Scanner(System.in);
 		Random number_gen = new Random();
 		
-		
 		System.out.print("Enter a number between 1 and 1000: ");
 		user_input = input.nextInt();
 				
