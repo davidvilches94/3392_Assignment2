@@ -24,6 +24,7 @@ public class Vehicle
 	}
 	public void setWeight(double weight)
 	{
+		
 	}
 	public String toString()
 	{
